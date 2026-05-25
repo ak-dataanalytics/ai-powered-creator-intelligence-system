@@ -34,14 +34,14 @@ The result is a complete **Creator Intelligence System** capable of surfacing st
 
 ### Page 1 — Creator Intelligence System
 
-![Page 1](05-page1-dashboard.png)
+![Page 1](05_page1-dashboard.png)
 
 
 ---
 
 ### Page 2 — Strategic Recommendation Engine
 
-![Page 1](06-page2-strategy-engine.png)
+![Page 2](06_page2-strategy-engine.png)
 
 
 ---
